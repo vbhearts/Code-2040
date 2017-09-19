@@ -19,7 +19,7 @@ Getting Access to the Collaborative Repository
 ----------
 - Copy your secret from step 1 of the Fellows application (fellows.code2040.org) and paste it into secret.json (`data/secret.json`).
 
-- Open the spell.rb file (`app/spell.rb`) and write four methods (see details below). These are four short methods (1-10 lines each) that are each a little bit of basic array and string manipulation. Think of these as warm ups. They are not the most important part of the overall code sample, so don't hesitate to reach out with questions if you get stuck. We're here to help and we're rooting for you!
+- Open the spell.rb file (`models/spell.rb`) and write four methods (see details below). These are four short methods (1-10 lines each) that are each a little bit of basic array and string manipulation. Think of these as warm ups. They are not the most important part of the overall code sample, so don't hesitate to reach out with questions if you get stuck. We're here to help and we're rooting for you!
 
 - As you write each of these four methods you can run this command to see your access tokens: `bundle exec ruby spell_checker.rb`. If your test suite for a spell is passing, the access token is correct and you can paste the token into your fellowship application to validate it. Once all four are validated you'll receieve an invitation to the collaboration repository.
 
